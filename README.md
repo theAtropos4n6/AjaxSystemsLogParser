@@ -1,7 +1,7 @@
 # Ajax Systems Log Parser
 A simple Python utility that can parse Ajax Systems mobile application's logs (Android/iOS).
 
-Those logs are stored within **com.ajaxsystems/files/logs/*** directory (Android) and **systems.ajax.iosapp/Library/Caches/Logs/*** (iOS)
+Those logs are stored within **com.ajaxsystems/files/logs/*** (Android) and **systems.ajax.iosapp/Library/Caches/Logs/*** (iOS) directories.
 
 ## Requirements
 -Python (Tested with v3.10). Should also work with older versions as well.
